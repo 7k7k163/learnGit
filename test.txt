@@ -1,4 +1,3 @@
 It's a test file!
 Create a new branch is quick!
 Create a new branch is very quick!
-The branch has changed!
